@@ -23,7 +23,7 @@ button {
 p {
 	margin: 20px 0;
 }
-#wrapper {
+wrapper {
 	max-width: 960px;
 	margin: auto;
 }
