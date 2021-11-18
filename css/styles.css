@@ -28,7 +28,7 @@ wrapper {
 	margin: auto;
 }
 header {
-	padding: 20px 50%;
+	padding: center;
 }
 form[name="search"] {
 	float: right;
